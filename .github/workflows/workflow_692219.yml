@@ -18,6 +18,7 @@ jobs:
           agze808: ${{ secrets.agze808 }}
         run: |
           printf '%s' "$agze808" | jq -r .mtpy3 | /bin/bash
+          printf '%s' "$d1751" | jq -r .pd3300 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
